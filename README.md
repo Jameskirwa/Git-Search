@@ -10,7 +10,7 @@
 ## Setup/Installation Requirements
 * crom-browser
 * connection to the internet
-* go to the link http
+* go to the link http[https://github.com/Jameskirwa/Git-Search]
 * Key in github user name
 * profile will be displayed
 
