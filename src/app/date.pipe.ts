@@ -1,4 +1,5 @@
 import { Pipe, PipeTransform } from '@angular/core';
+// import { Component } from '@angular/core';
 
 @Pipe({
   name: 'date'
