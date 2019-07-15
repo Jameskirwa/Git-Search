@@ -20,10 +20,10 @@
 
 
 ## Technologies Used
-  Angularcli
+  Angularcli<br>
   JavaScript
 ## Features
-   Bootstraping
+   Bootstraping<br>
    Styles.css
 
 ## Support and contact detail
