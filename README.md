@@ -22,6 +22,9 @@
 ## Technologies Used
   Angularcli
   JavaScript
+## Features
+   Bootstraping
+   Styles.css
 
 ## Support and contact detail
 jameskirwa34@gmail.com
