@@ -21,8 +21,11 @@
 
 ## Technologies Used
   Angularcli
+  JavaScript
+  
 ## Support and contact detail
 jameskirwa34@gmail.com
 ### License
 **[MIT](https://github.com/Jameskirwa/github-search/blob/master/LICENSE)**
+
 Copyright (c) 2019 Jameskirwa
