@@ -1,0 +1,32 @@
+.search-form{
+    padding-top: 50px;
+}
+.circle{
+    border-radius: 50%;
+    height: 250px;
+}
+.bio{
+    margin-left: 40%;
+    margin-top: -20%;
+}
+h2{
+    border-end-end-radius: 2px;
+    text-align: center;
+    border-bottom: 1px solid white;
+}
+.card{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    display: block;
+    padding: 15px;
+    
+}
+.box{
+    margin-left: 40%;
+}
+.one{
+    margin-top: 20%;
+}
