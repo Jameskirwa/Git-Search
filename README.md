@@ -12,7 +12,7 @@
 * connection to the internet
 * go to the link http
 * Key in github user name
-* profile will load automatically
+* profile will be displayed
 
 
 ## BDD
