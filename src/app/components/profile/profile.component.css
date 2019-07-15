@@ -43,3 +43,9 @@ h2{
     cursor: pointer;
     margin: 5px;  
 }
+.profile{
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;  
+}
